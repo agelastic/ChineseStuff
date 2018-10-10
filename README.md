@@ -6,3 +6,7 @@ The .pdb file is my conversion of a dictionary previously piblished at kanjinetw
 ## Why are Chinese characters so damn hard
 
 A cool [thesis](http://urn.nb.no/URN:NBN:no-58021) by Michal Kosek plus my conversion of his Appendix A of common (well, his own) confusions of simplified characters to an Anki deck. Again, I find it a useful reference.
+
+## Modern Chinese Character Frequency List
+
+A Pleco dictionary listing basic meanings and frequency of characters in modern Chinese. The list comes from Jun Da's [Chinese text computing page](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO). His corpus is non-specific to genre.
