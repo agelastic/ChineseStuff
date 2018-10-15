@@ -9,4 +9,8 @@ A cool [thesis](http://urn.nb.no/URN:NBN:no-58021) by Michal Kosek plus my conve
 
 ## Modern Chinese Character Frequency List
 
-A Pleco dictionary listing basic meanings and frequency of characters in modern Chinese. The list comes from Jun Da's [Chinese text computing page](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO). His corpus is non-specific to genre.
+A Pleco dictionary listing basic meanings and frequency of characters in modern Chinese. The list comes from Jun Da's [Chinese text computing page](http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO). His corpus is non-specific to genre
+
+## 现代汉语常用词表
+
+Another Pleco dictionary listing "official" frequencies of "words" in Chinese, according to some CN government agency (forgot which)
