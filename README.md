@@ -5,6 +5,8 @@ The file "Howell character dictionary.pdb" is my conversion, hopefully with not 
 
 The original is by [Lawrence Howell](https://www.slideshare.net/KanjiNetworks "Slideshare"), who is rather elusive, and the "late Hikaru Morimoto". I do not know what licence it comes under, assuming Creative Commons of some sort. Pdf's are included for reference, and are avaliable at his Slideshare. Whatever the scientific value of the dictionary (it is still disputed), I find it useful for thinking about mnenomics for remembering characters that confuse my memory at the time. Character entries in the pdb file are traditional and do not have pinyin associated with them, thus they will only show up under "Chars/Other Pronunciations" tab in Pleco.
 
+I've later run the dictionaries, or rather flashcards with content, through Pleco's "add missing" function, which sort of addedd pinyin to the both. These are "w/pinyin" files. On the one hand, having pinyin in entries makes many Pleco bugs/glitches go away (Pleco is terrible in handling user dicts without pinyin), on the other hand, this pinyin is quite unreliable and ocassionally wrong.
+
 For a more "scientific" critique of the method, see [Mair's blog](http://languagelog.ldc.upenn.edu/nll/?p=3699 "Language Log")
 
 ## Why are Chinese characters so damn hard
